@@ -43,8 +43,23 @@ The architecture leverages the MERN stack (MongoDB, Express, React, Node.js) to 
 
 ## ScreenShots
 
-The architecture leverages the MERN stack (MongoDB, Express, React, Node.js) to ensure a scalable, efficient, and modular solution. The chatbot from Chatbase.ai is integrated to provide automated support for FAQs.
-![home page](https://github.com/Aryan-Kumar-Thakur/JPMC-Code-For-Good-24/blob/main/client/src/assets/images/1.home.jpeg)
+1. Home Page
+![ home page ](https://github.com/Aryan-Kumar-Thakur/JPMC-Code-For-Good-24/blob/main/client/src/assets/images/1.home.jpeg)
+
+2. Stats page 1
+![ Stats page 1 ](https://github.com/Aryan-Kumar-Thakur/JPMC-Code-For-Good-24/blob/main/client/src/assets/images/2.stats.jpeg)
+
+3. Stats page 2
+![Stats page 2 ](https://github.com/Aryan-Kumar-Thakur/JPMC-Code-For-Good-24/blob/main/client/src/assets/images/3.stats.jpeg)
+
+4. Map Page 1
+![ Map Page 1 ](https://github.com/Aryan-Kumar-Thakur/JPMC-Code-For-Good-24/blob/main/client/src/assets/images/4.map.jpeg)
+
+5. Map Page 2
+![ Map page 2 ](https://github.com/Aryan-Kumar-Thakur/JPMC-Code-For-Good-24/blob/main/client/src/assets/images/5.map.jpeg)
+
+6. Trainer Dashboard
+![ Trainer Dashboard ](https://github.com/Aryan-Kumar-Thakur/JPMC-Code-For-Good-24/blob/main/client/src/assets/images/6.dashboard.jpeg)
 
 
 ## Installation
