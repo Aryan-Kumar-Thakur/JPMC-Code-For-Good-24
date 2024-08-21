@@ -41,6 +41,12 @@ The architecture leverages the MERN stack (MongoDB, Express, React, Node.js) to 
 ![flowchart(1)](https://github.com/user-attachments/assets/06bcc495-4b8b-4ab7-8547-fba03916397e)
 
 
+## ScreenShots
+
+The architecture leverages the MERN stack (MongoDB, Express, React, Node.js) to ensure a scalable, efficient, and modular solution. The chatbot from Chatbase.ai is integrated to provide automated support for FAQs.
+![home page](https://github.com/Aryan-Kumar-Thakur/JPMC-Code-For-Good-24/blob/main/client/src/assets/images/1.home.jpeg)
+
+
 ## Installation
 
 
